@@ -1,0 +1,6 @@
+per creare un file make molto semplice: creazione di un file eseguibile
+
+cmake_minimum_required (VERSION 2.6)
+project (Tutorial)
+add_executable(Tutorial tutorial.cxx)
+
